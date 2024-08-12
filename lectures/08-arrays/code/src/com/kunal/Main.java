@@ -29,9 +29,5 @@ public class Main {
         String[] arr = new String[4];
         System.out.println(arr[0]);
 
-//        for (String element : arr) {
-//            System.out.println(element);
-//        }
-
     }
 }
